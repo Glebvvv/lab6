@@ -1,0 +1,19 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Компилируемые папки
+bin/
+obj/
+
+# Пакеты NuGet
+packages/
+
+# Логи
+*.log
+
+# Файлы, создаваемые системой
+*.dbmdl
+*.pdb
+*.cache
