@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<deposits>
+  
+  <deposit>
+    <name>Сберегательный</name>
+    <nominalRate>0.08</nominalRate> </deposit>
+  
+  <deposit>
+    <name>Накопительный Плюс</name>
+    <nominalRate>0.105</nominalRate> </deposit>
+  
+  <deposit>
+    <name>Молодежный</name>
+    <nominalRate>0.06</nominalRate> </deposit>
+
+  <deposit>
+    <name>Нулевой (Ошибка)</name>
+    <nominalRate>0.0</nominalRate>
+  </deposit>
+
+  <deposit>
+    <name>Отрицательный (Ошибка)</name>
+    <nominalRate>-0.05</nominalRate>
+  </deposit>
+
+  <deposit>
+    <name>Сломанная запись (Ошибка)</name>
+    <nominalRate>не_число</nominalRate>
+  </deposit>
+  
+</deposits>

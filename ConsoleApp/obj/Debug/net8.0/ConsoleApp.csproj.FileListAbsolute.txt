@@ -1,0 +1,15 @@
+D:\source\repos\Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\source\repos\Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\source\repos\Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\source\repos\Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\source\repos\Solution\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\source\repos\Solution\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
